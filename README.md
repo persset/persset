@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and gaming
 - 🌱 I’m currently learning the PHP framework Laravel
 - 💞️ I’m looking to learn a lot of programming so I can make this as my carreer of choice.
-- 📫 How to reach me: victor.persset@gmail.com
+- 📫 How to reach me: jpersset@gmail.com
 
 <!---
 persset/persset is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
