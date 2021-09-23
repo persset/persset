@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @persset - Jose Victor Persset
 - 👀 I’m interested in programming and gaming
-- 🌱 I’m currently learning the PHP framework Laravel
+- 🌱 I’m currently learning NodeJS and React using Typescript
 - 💞️ I’m looking to learn a lot of programming so I can make this as my carreer of choice.
 - 📫 How to reach me: jpersset@gmail.com
 
