@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose Victor Persset</h1>
-<h3 align="center">A programming student from Brazil, looking to become a full-stack developer</h3>
+<h3 align="center">A programming student from Brazil, looking to become a back-end developer</h3>
 
 - 🔭 I’m currently working on **Developing my skills in NodeJs and ReactJS**
 
